@@ -174,3 +174,69 @@ nav a:hover {
 .service strong {
     color: #275c3b;
 }
+
+/* Contact Us */
+
+#contact-us {
+    text-align: center;
+    width: 80%;
+    margin: 10%;
+}
+
+#contact-us h2 {
+    text-align: center;
+    margin:50px;
+}
+
+#contact-info {
+    border: 1px solid  #275c3b;
+    padding: 20px 10px;
+    margin: 30px;
+    text-align: leftt;
+}
+
+
+/* Form */
+
+#form {
+    width: 80%;
+    text-align: center;
+    margin: 10%;
+    padding: 0;
+}
+
+::placeholder { 
+    color: black;
+    position:absolute;
+    top:1px;
+}
+
+#name, #email {
+    width: 48%;
+    display: inline-block;
+    border: 1px solid #275c3b;
+    margin-bottom: 5px;
+}
+
+#number, #address {
+    border: 1px solid #275c3b;
+    width: 98%;
+    margin-bottom: 5px;
+}
+
+#description {
+    border: 1px solid #275c3b;
+    width: 98%;
+    height: 80px;
+}
+
+#submit {
+    border: 1px solid #275c3b;
+    border-radius: 10%;
+}
+
+.form-input:hover {
+    background-color: #62B374;
+}
+
+
