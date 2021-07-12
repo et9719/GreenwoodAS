@@ -149,3 +149,28 @@ nav a:hover {
     text-align: center;
 }
 
+/* services */
+
+#services h2 {
+    text-align: center;
+    margin:50px;
+}
+
+#services img {
+    width: 80%;
+    margin: 10%;
+}
+
+#services p {
+    width: 80%;
+    margin: 10%;
+    text-align: center;
+}
+
+.service {
+    border-bottom: 1px solid #275c3b;
+}
+
+.service strong {
+    color: #275c3b;
+}
