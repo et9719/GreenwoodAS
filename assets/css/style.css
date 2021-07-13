@@ -149,6 +149,18 @@ nav a:hover {
     text-align: center;
 }
 
+/* Gallery */
+
+#gallery h2 {
+    text-align: center;
+    margin:20px;
+}
+
+#gallery img{
+    width: 80%;
+    margin: 10%;
+}
+
 /* services */
 
 #services h2 {
