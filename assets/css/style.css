@@ -87,7 +87,7 @@ nav a:hover {
 #main-tree {
     height: 320px;
     width: 100%;
-    background: url('../images/Main-tree.jpg') no-repeat center center;
+    background: url('../images/Main-tree.jpg') center center / cover no-repeat fixed;
 }
 
 #cover-text {
@@ -104,7 +104,7 @@ nav a:hover {
 
     background:rgba(0,0,0, 0.5);
 
-    top: 40px;
+    bottom: 40px;
     right: 10px;
 
     position:absolute;
@@ -251,5 +251,50 @@ nav a:hover {
     margin-bottom: 20px;
 }
 
+/* Footer */
+
+footer {
+    height: 100px;
+    background-color: #4a4a4f;
+}
+
+footer ul {
+    list-style: none;
+    text-align: left;
+    padding:0px;
+    margin: 0;
+    display:inline-block;
+    clear:right;
+    position: relative;
+    bottom: 10px;
+    left: 10px;
+}
+
+footer li {
+    font-size: 40%;
+    line-height: 30px;
+    height: 5px;
+    display: inline-block;
+    margin: 5px;
+    position: relative;
+    top: 30px;
+}
+
+footer a {
+    color: white;
+}
+
+#f-contact {
+    color: white;
+    width: 30%;
+    font-size: 50%;
+    
+    float: right;
+    position: relative;
+    bottom: 20px;
+    text-align: right;
+    margin-right: 5px;
+    
+}
 
 
