@@ -29,6 +29,27 @@ The client want the website to be easy to use as they often get older clients, s
 - As a user, i want to easily see if they can offer the service im looking for. 
 - As a user, i want to be able to easily get in contact with the company to book a job.
 
+## Wireframes
+
+### Home Page
+
+<img src="assets/images/home-mobile-wireframe.png" alt="wireframe for mobile version of the homepage">
+
+<img src="assets/images/home-wireframe-1.png" alt="wireframe for the homepage">
+<img src="assets/images/home-wireframe-2.png" alt="wireframe for the homepage">
+
+### Services Page
+
+<img src="assets/images/services-mobile-wireframe.png" alt="wireframe for mobile version of the services page">
+
+<img src="assets/images/services-wireframe.png" alt="wireframe for the services page">
+
+### Contact Us Page
+
+<img src="assets/images/contact-us-mobile-wireframe.png" alt="wireframe for mobile version of the contact us page">
+
+<img src="assets/images/contact-us-wireframe.png" alt="wireframe for the contact us page">
+
 ## Features
 
 ### Navigation Bar
