@@ -129,6 +129,11 @@ nav a:hover {
     margin: 50px;
 }
 
+#about-us iframe {
+    width: 90%;
+    padding-top: 10px;
+}
+
 /* Meet the team */
 
 #meet-the-team h2 {
