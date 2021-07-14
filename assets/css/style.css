@@ -87,7 +87,7 @@ nav a:hover {
 #main-tree {
     height: 320px;
     width: 100%;
-    background: url('../images/Main-tree.jpg') center center / cover no-repeat fixed;
+    background: url('../images/home-page.jpg') center center / cover no-repeat fixed;
 }
 
 #cover-text {
