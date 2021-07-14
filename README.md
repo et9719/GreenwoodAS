@@ -87,14 +87,38 @@ The client want the website to be easy to use as they often get older clients, s
 
 ### Validator Testing
 
-- HTML
- <!-- No errors were returned when passing through the official W3C validator -->
+#### HTML
 
-- CSS
+HTML was tested using the W3C Markup Validation Service <!-- Add link -->
+
+The following errors/warnings were found:
+
+ <img src="assets/images/test-contact-result-1.png" alt="A warning that the contact info section has no heading">
+
+ <img src="assets/images/test-contact-result-2.png" alt="An error with the text-input class">
+
+ <img src="assets/images/test-contact-result-3.png" alt="A warning that the form section has no heading">
+
+### Errors/Warnings Fixed:
+
+  1. contact information heading missing <!-- Decide if you want to add heading -->
+
+Retested:
+
+  2. text-input class <!-- figure out error -->
+
+Retested:
+
+  3. form heading missing <!-- Decide if you want to add heading -->
+
+Retested:
+
+The HTML was then re-tested <!-- were all results fixed? -->
+
+<!-- Add image of results -->
+
+### CSS
  <!-- No errors were found when passing through the official (Jigsaw) validator -->
-
-### Fixed Bugs 
- <!-- Any bugs you had along the way and how you fixed them -->
 
 ### Unfixed Bugs
  <!-- You will need to mention unfixed bugs and why they were not fixed. -->
