@@ -60,13 +60,11 @@ nav a {
 }
 
 nav a:hover {
-    color: #62B374;
-    border-bottom: 1px solid  #62B374;
+    border-bottom: 1px solid  #fafafa;
 }
 
 .active {
-    border-bottom: 1px solid #62B374;
-    color: #62B374;
+    border-bottom: 1px solid #fafafa;
 }
 
 /* Main tree image */
@@ -280,6 +278,7 @@ footer ul {
     position: relative;
     bottom: 10px;
     left: 10px;
+   
 }
 
 footer li {
@@ -298,7 +297,7 @@ footer a {
 
 #f-contact {
     color: white;
-    width: 30%;
+    width: 40%;
     font-size: 50%;
     
     float: right;
@@ -309,4 +308,6 @@ footer a {
     
 }
 
-
+#f-contact i {
+    padding: 0 10px;
+}
