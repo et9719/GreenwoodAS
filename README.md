@@ -118,7 +118,17 @@ The HTML was then re-tested <!-- were all results fixed? -->
 <!-- Add image of results -->
 
 ### CSS
- <!-- No errors were found when passing through the official (Jigsaw) validator -->
+ 
+ CSS was tested using the W3C CSS Validation Service - Jigsaw <!-- Add link -->
+
+ One error was found:
+
+ <img src="assets/images/css-test.png" alt="Miss spelling of the word left causing an error">
+
+  1. Miss spelling of the word left as a value for text-align. 
+     -corrected spelling.
+
+  Retested:    
 
 ### Unfixed Bugs
  <!-- You will need to mention unfixed bugs and why they were not fixed. -->
