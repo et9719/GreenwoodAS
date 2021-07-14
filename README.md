@@ -24,7 +24,7 @@ The client want the website to be easy to use as they often get older clients, s
 ## User Expectations
 
 - As a user, i want to be able to easiy navagate through the website.
-- As a user, i want to see the staff before they arrive at my property to do a job, so i have a better idea of who i am inviting into my home.
+- As a user, i want to see the staff before they arrive at my property to do a job, so i have a   better idea of who i am inviting into my home.
 - As a user, i want to see the quality of their work before booking them to do a job.
 - As a user, i want to easily see if they can offer the service im looking for. 
 - As a user, i want to be able to easily get in contact with the company to book a job.
@@ -87,9 +87,10 @@ The client want the website to be easy to use as they often get older clients, s
 
 ### Validator Testing
 
-#### HTML
+### HTML
 
-HTML was tested using the W3C Markup Validation Service <!-- Add link -->
+HTML was tested using the offical [W3C validator] (https://validator.w3.org/nu/) 
+<!-- sort out link -->
 
 The following errors/warnings were found:
 
@@ -119,7 +120,8 @@ The HTML was then re-tested <!-- were all results fixed? -->
 
 ### CSS
  
- CSS was tested using the W3C CSS Validation Service - Jigsaw <!-- Add link -->
+ CSS was tested using the the official [(Jigsaw) validator] https://jigsaw.w3.org/css-validator/
+ <!-- Sort out link -->
 
  One error was found:
 
@@ -128,10 +130,11 @@ The HTML was then re-tested <!-- were all results fixed? -->
   1. Miss spelling of the word left as a value for text-align. 
      -corrected spelling.
 
-  Retested:    
+  Retested: Error Passed
 
-### Unfixed Bugs
- <!-- You will need to mention unfixed bugs and why they were not fixed. -->
+  The CSS was then re-tested and results came back with no errors.
+
+   <img src="assets/images/css-test-corrected.png" alt="CSS test showing no error">  
 
  ## Deployment
 
