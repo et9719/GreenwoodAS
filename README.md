@@ -23,11 +23,11 @@ The client want the website to be easy to use as they often get older clients, s
 
 ## User Expectations
 
-- As a user, i want to be able to easiy navagate through the website.
-- As a user, i want to see the staff before they arrive at my property to do a job, so i have a   better idea of who i am inviting into my home.
-- As a user, i want to see the quality of their work before booking them to do a job.
-- As a user, i want to easily see if they can offer the service im looking for. 
-- As a user, i want to be able to easily get in contact with the company to book a job.
+- As a user, I want to be able to easiy navagate through the website.
+- As a user, I want to see the staff before they arrive at my property to do a job, so i have a   better idea of who I am inviting into my home.
+- As a user, I want to see the quality of their work before booking them to do a job.
+- As a user, I want to easily see if they can offer the service im looking for. 
+- As a user, I want to be able to easily get in contact with the company to book a job.
 
 ## Wireframes
 
@@ -123,21 +123,28 @@ The following errors/warnings were found:
 
 ### Errors/Warnings Fixed:
 
-  1. contact information heading missing <!-- Decide if you want to add heading -->
+  1. contact information heading missing.
+     - A heading was not needed so i changed the contact information section into a div inside 
+       a main section on the contact us page.
 
-Retested:
+Retested: Warning cleared
 
-  2. text-input class <!-- figure out error -->
+  2. Two classes were entered seperatly into the input elements in the form div.
+     - I added the second class into the first as two were not needed. 
+     - Originally it  looked like: class="form-input" class="text-input"
+     - Now looks like: class="form-input text-input"
 
-Retested:
+Retested: Error paassed
 
-  3. form heading missing <!-- Decide if you want to add heading -->
+  3. form heading missing 
+     - A heading was not needed so i changed the form section into a div inside 
+       a main section on the contact us page.
 
-Retested:
+Retested: Warning cleared
 
-The HTML was then re-tested <!-- were all results fixed? -->
+The HTML was then re-tested and results came back with no errors.
 
-<!-- Add image of results -->
+<img src="assets/images/html-test.png" alt="image showing errors are cleared">
 
 ### CSS
  
