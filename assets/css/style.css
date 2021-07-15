@@ -253,7 +253,9 @@ nav a:hover {
 }
 
 .form-input:hover {
-    background-color: #62B374;
+    background-color: #275c3b;
+    color: #fafafa;
+    border: 1px solid #000;
 }
 
 /* opening times */
