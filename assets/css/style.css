@@ -15,6 +15,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-weight: 200;
     color: #2C7E32;
+    font-size: small;
 }
 
 /* headings and logo */
@@ -29,7 +30,7 @@ h1, h2 {
     float: left;
     height: 60px;
     margin: 0;
-    padding: 15px 0px;
+    padding: 15px 0px 15px 10px;
 }
 
 /* navagation links */
@@ -42,7 +43,7 @@ nav ul {
 }
 
 nav li {
-    font-size: 1em;
+    font-size: x-small;
     line-height: 50px;
     height: 50px;
     display: inline-block;
@@ -89,7 +90,7 @@ nav a:hover {
 }
 
 #cover-text {
-    font-size: 70%;
+    font-size: 60%;
     font-family: 'Noto Sans KR', sans-serif;
     text-transform: uppercase;
     font-weight: 300;
@@ -283,7 +284,7 @@ footer ul {
     position: relative;
     bottom: 10px;
     left: 10px;
-   
+    font-size: small;
 }
 
 footer li {
@@ -303,11 +304,11 @@ footer a {
 #f-contact {
     color: white;
     width: 40%;
-    font-size: 50%;
+    font-size: 45%;
     
     float: right;
     position: relative;
-    bottom: 20px;
+    bottom: 17px;
     text-align: right;
     margin-right: 5px;
 }
