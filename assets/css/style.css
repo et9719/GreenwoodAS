@@ -336,6 +336,7 @@ footer a {
 }
 
 @media screen and (min-width: 350px) {
+
     nav li {
         font-size: 22px;
         position: relative;
@@ -348,6 +349,8 @@ footer a {
         width: 600px;
     }
 
+    /* About Us */
+
     #about-us {
         padding: 5% 5% 0 5%;
         margin: 5%;
@@ -356,6 +359,66 @@ footer a {
     #about-us p {
         padding-bottom: 5%;
     }
+
+    /* Meet the team */
+
+    #meet-the-team p {
+        width: 40%;
+        margin: 10%;
+    }
+
+    #meet-the-team img {
+       width: 30%;
+       margin: 10%;
+       position:relative;
+       bottom: 320px;
+      
+    }
+
+    #sam {
+        height:250px;
+    }
+
+    #sam p {
+        float:right;
+        text-align: left;
+    }
+
+    #louise {
+        height:200px;
+    }
+
+    #louise p {
+        text-align: right;
+    }
+    
+    #louise img {
+        position: relative;
+        left: 50%;
+    }
+
+    #robert {
+        height:250px;
+    }
+
+    #robert p {
+        float:right;
+        text-align: left;
+    }
+
+    #emma {
+        height:200px;
+    }
+
+    #emma p {
+        text-align: right;
+    }
+    
+    #emma img {
+        position: relative;
+        left: 50%;
+    }
+
 
 }
 
