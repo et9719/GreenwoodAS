@@ -202,7 +202,7 @@ nav a:hover {
     margin: 10%;
 }
 
-#contact-us h2 {
+#contact-page h2 {
     text-align: center;
     margin:50px;
 }
@@ -332,10 +332,14 @@ footer a {
 
 @media screen and (min-width: 350px) {
 
+    header {
+        height: 170px;
+    }
+
     nav li {
         font-size: 22px;
         position: relative;
-        top: 20px;
+        top: 60px;
         margin-left: 30px;
     }
 
@@ -428,14 +432,14 @@ footer a {
     /* Footer */
 
      footer {
-        height: 140px;
+        height: 170px;
      }
      
      #docs a{
          font-size: 150%;
          margin-left: 35px;
          position: relative;
-         top: 20px;
+         top: 40px;
      }
 
      #f-contact {
@@ -483,5 +487,49 @@ footer a {
     .service {
         padding: 20px;
         margin: 0;
+    }
+
+    /* Contact Us */
+
+    #contact-page {
+        margin-bottom: 10px;
+    }
+
+    #contact-page h2 {
+        margin:50px 50px 10px 50px;
+    }
+
+    #contact-us {
+        width: 40%;
+        margin: 5%;
+        font-size: large;
+        display: inline-block;
+        text-align: left;
+    }
+    
+    #contact-info {
+        padding: 30px 10px;
+        font-size:large;
+        display: inline-block;
+        position: relative;
+        bottom: 30px;
+        left: 20px;
+    }
+    
+    /* Form */
+    
+    #form {
+        width: 40%;
+        margin: 5%;
+        display: inline-block;
+    }
+    
+    /* opening times */
+    
+    #times {
+        display: inline-block;
+        position: relative;
+        margin-top: 0;
+        left: 20px;
     }
 }
