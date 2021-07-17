@@ -51,12 +51,6 @@ nav li {
     margin-left: 15px;
 }
 
-/*
-.line-two {
-    position:relative;
-    right:30px;
-} */
-
 nav a {
     text-decoration: none;
     color: white;
@@ -343,6 +337,14 @@ footer a {
         margin-left: 30px;
     }
 
+    #main-tree-outer {
+        height: 450px;
+    }
+    
+    #main-tree {
+        height: 450px;
+    }
+
     #cover-text, #cover-text h2 {
         font-size: 150%;
         width: 600px;
@@ -357,6 +359,7 @@ footer a {
 
     #about-us p {
         padding-bottom: 5%;
+        font-size: medium;
     }
 
     /* Meet the team */
@@ -364,6 +367,7 @@ footer a {
     #meet-the-team p {
         width: 40%;
         margin: 10%;
+        font-size: medium;
     }
 
     #meet-the-team img {
@@ -389,6 +393,7 @@ footer a {
 
     #louise p {
         text-align: right;
+        padding-top: 30px;
     }
     
     #louise img {
@@ -469,7 +474,7 @@ footer a {
     }
     
     #services img {
-        width: 200px;
+        width: 250px;
         margin: 50px;
         
         clear: left;
@@ -477,59 +482,62 @@ footer a {
     
     #services p {
         width: 300px;
-        margin: 50px;
         text-align: right;
-
+        font-size: medium;
         float: left;
         text-align: left;
+        margin: 10px 0 0 50px;
     }
     
     .service {
-        padding: 20px;
+        padding: 40px 20px ;
         margin: 0;
     }
 
     /* Contact Us */
-
-    #contact-page {
-        margin-bottom: 10px;
-    }
 
     #contact-page h2 {
         margin:50px 50px 10px 50px;
     }
 
     #contact-us {
-        width: 40%;
-        margin: 5%;
-        font-size: large;
+        width: 35%;
+        margin-left: 10%;
+        font-size: medium;
         display: inline-block;
         text-align: left;
     }
     
     #contact-info {
         padding: 30px 10px;
-        font-size:large;
+        font-size:medium;
         display: inline-block;
         position: relative;
         bottom: 30px;
-        left: 20px;
+        margin: 0 10px 0 0;
+     
     }
     
     /* Form */
     
     #form {
         width: 40%;
-        margin: 5%;
         display: inline-block;
+        font-size: medium;
+        margin-left: 10%;
+        position: relative;
+        bottom: 40px;
     }
     
     /* opening times */
     
     #times {
         display: inline-block;
-        position: relative;
-        margin-top: 0;
-        left: 20px;
+        float: right;
+        position: absolute;
+        top: 37%;
+        font-size: medium;
+        margin: 10% 15% 0 0;
     }
+
 }
