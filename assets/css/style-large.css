@@ -63,9 +63,8 @@
     }
 
     #gallery img {
-        width: 250px; 
-        height: 250px;
-        left: 80px;
+        width: 25%; 
+        margin: 4%;
      }
 
     /* Footer */
@@ -128,8 +127,31 @@
     /* opening times */
     
     #times {
-        top: 30%;
+        top: 450px;
         font-size: large;
-        
     }
+}
+
+@media screen and (min-width: 1050px) {
+    
+    #meet-the-team p {
+        top: 250px;
+     }
+
+    #meet-the-team img {
+        bottom: 250px; 
+     }
+
+    #members {
+        bottom: 250px;
+     }
+
+     #services img {
+        width: 400px;
+        margin: 50px 0px 50px 200px;
+     }
+    
+     #services p {
+        margin: 90px 0 0 60px
+     }
 }
