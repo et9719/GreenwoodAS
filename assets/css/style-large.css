@@ -1,0 +1,90 @@
+@media screen and (min-width: 950px) {
+
+    nav li {
+        margin-left: 60px;
+        font-size: x-large;
+    }
+
+    #logo {
+        padding: 20px 0px 15px 50px;
+    }
+
+    #cover-text h2 {
+        font-size: 250%;
+    }
+
+    
+    #cover-text h3 {
+        font-size: 200%;
+    }
+
+    #cover-text {
+        height: 80px;  
+    }
+
+    /* About Us */
+
+    #about-us p {
+        font-size: large;
+    }
+
+    #about h2 {
+        font-size: xx-large;
+        margin: 60px 20px 20px 20px;
+    }
+
+    /* Meet The Team */
+
+     #members {
+        position: relative;
+        bottom: 100px;
+    }
+
+    #meet-the-team p {
+        font-size: large;
+        position: relative;
+        top: 100px;
+    }
+
+    #meet-the-team h2 {
+        font-size: xx-large;
+    }
+
+    /* Gallery */
+
+    #gallery {
+        position: relative;
+        bottom: 70px;
+    }
+
+    #gallery h2 {
+        margin: 100px 20px 20px 20px;
+        font-size: xx-large;
+    }
+
+    #gallery img {
+        width: 250px; 
+        height: 250px;
+        left: 80px;
+     }
+
+    /* Footer */
+     
+     #docs a{
+         font-size: 200%;
+         margin-left: 70px;
+     }
+
+     #f-contact {
+        font-size: 150%; 
+     }
+
+     #f-contact i {
+        margin-right: 20px;
+     } 
+
+     #social i {
+        font-size: 600%;
+        margin-left:100px;
+     }
+}
