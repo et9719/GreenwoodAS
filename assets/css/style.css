@@ -1,9 +1,34 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Noto+Sans+KR:wght@300&display=swap');
 
+.arrow-btn {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    z-index: 9;
+}
+
+.arrow-btn a {
+    color: #275c3b;
+}
+
+
+.arrow-btn span {
+    line-height: 35px;
+    background-color: white;
+    font-size: 40px;
+    cursor: pointer;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
 * {
     margin: 0;
     padding: 0;
     border: none;
+}
+
+html {
+    scroll-behavior: smooth;
 }
 
 header {
