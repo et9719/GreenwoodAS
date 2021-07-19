@@ -174,24 +174,31 @@
 
     /* Contact Us */
 
+    #contact-page {
+        height: 770px;
+    }
+
     #contact-page h2 {
-        margin:50px 50px 10px 50px;
+        margin:20px 0;
+        padding-bottom: 30px;
+        width: 100%;
     }
 
     #contact-us {
         width: 35%;
-        margin-left: 10%;
+        margin: 5%;
         font-size: medium;
         display: inline-block;
         text-align: left;
     }
     
     #contact-info {
-        padding: 30px 10px;
+        padding: 65px 20px;
         font-size:medium;
         display: inline-block;
         position: relative;
         bottom: 30px;
+        left: 15px;
         margin: 0 10px 0 0;
      
     }
@@ -202,20 +209,31 @@
         width: 40%;
         display: inline-block;
         font-size: medium;
-        margin-left: 10%;
         position: relative;
-        bottom: 40px;
+        bottom: 52px;
+        right: 36px;
+        padding: 6% 2% 7% 2%;
     }
     
     /* opening times */
     
     #times {
-        display: inline-block;
-        position: absolute;
-        top: 37%;
-        font-size: medium;
-        margin: 10% 15% 0 0;
+        top: 39%;
+        left: 55%;
+        margin: 10% 5% 0 0;
+        padding: 10px 0;
+        width: 40%;
     }
+
+    #times h2 {
+       padding-bottom: 0%;
+    }
+
+    #times p {
+        font-size: medium;
+        padding-bottom: 20px;
+    }
+     
 
 }
 

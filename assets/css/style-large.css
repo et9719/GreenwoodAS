@@ -110,6 +110,10 @@
     
     /* Contact Us */
 
+    #contact-page {
+        height: 880px;
+    }
+
     #contact-page h2 {
         font-size: xx-large;
     }
@@ -117,23 +121,38 @@
     #contact-us {
         font-size: large;
         padding-left: 30px;
+        margin-left: 7%;
     }
     
     #contact-info {
-        
+        left: 7%;
         font-size:large;
     }
     
     /* opening times */
     
     #times {
-        top: 450px;
         font-size: large;
+        top: 41%;
+        width: 35%;
+        padding: 16px 0;
+        left: 57%;
+    }
+
+    /* form */
+
+    #form {
+        bottom: 58px;
+    }
+    #times p {
+       padding-bottom: 19px;
     }
 }
 
 @media screen and (min-width: 1050px) {
     
+    /* About Us */
+
     #meet-the-team p {
         top: 250px;
      }
@@ -146,6 +165,8 @@
         bottom: 250px;
      }
 
+     /* services */
+
      #services img {
         width: 400px;
         margin: 50px 0px 50px 200px;
@@ -154,4 +175,40 @@
      #services p {
         margin: 90px 0 0 60px
      }
+
+
+
+
+
+
+
+     /* Contact Us */
+
+    #contact-page {
+        height: 900px;
+    }
+
+    #contact-us {
+        margin-left: 8%;
+        position: relative;
+        bottom: 20px;
+    }
+    
+    #contact-info {
+        padding: 70px 25px;
+      
+    }
+    
+    #times {
+        top: 32%;
+        width: 30%;
+        left: 58%;
+        padding: 31px 0 35px 0;
+    }
+
+    #form {
+        bottom: 17%;
+        right: 2%;
+    }
+
 }

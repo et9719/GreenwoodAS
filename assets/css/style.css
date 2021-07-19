@@ -215,32 +215,51 @@ nav a:hover {
 
 /* Contact Us */
 
+
+
 #contact-us {
     text-align: center;
-    width: 80%;
+    width: 70%;
     margin: 10%;
+    padding: 5%;
+    background-color: white;
+    border: 3px solid #000;
+}
+
+#contact-page {
+    background-image: url(/assets/images/contact-background.jpeg);
+    height: 900px;
+    position: relative;
+    top: 30px;
 }
 
 #contact-page h2 {
     text-align: center;
-    margin:50px;
+    width: 100%;
+    background-color: white;
+    position: relative;
+    bottom: 20px;
+    padding-bottom: 10px;
 }
 
 #contact-info {
-    border: 1px solid  #275c3b;
-    padding: 20px 10px;
+    border: 3px solid  #000;
+    padding: 20px;
     margin: 30px;
     text-align: left;
+    background-color: white;
 }
 
 
 /* Form */
 
 #form {
-    width: 80%;
+    width: 70%;
     text-align: center;
     margin: 10%;
-    padding: 0;
+    padding: 5%;
+    background-color: white;
+    border: 3px solid #000;
 }
 
 ::placeholder { 
@@ -284,7 +303,13 @@ nav a:hover {
 
 #times {
     text-align: center;
-    margin:50px;
+    width: 80%;
+    background-color: white;
+    position:absolute;
+    left: 30px;
+    padding: 30px 0 16px 0; 
+    border: 3px solid #000;
+    
 }
 
 #times h2 {
@@ -296,6 +321,8 @@ nav a:hover {
 footer {
     height: 100px;
     background-color: #4a4a4f;
+    position: relative;
+    top: 15px;
 }
 
 footer ul {
