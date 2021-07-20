@@ -158,6 +158,12 @@ nav a:hover {
 
 /* Meet the team */
 
+#members {
+    border: 1px solid #275c3b;
+    padding: 10px;
+    margin: 10px;
+}
+
 #meet-the-team h2 {
     text-align: center;
     margin-top: 20px;

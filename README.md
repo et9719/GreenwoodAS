@@ -166,16 +166,14 @@ The HTML was then re-tested and results came back with no errors.
 
  ## Deployment
 
- <!-- he process you went through to deploy the project to a hosting platform (e.g. GitHub) -->
+ <!-- the process you went through to deploy the project to a hosting platform (e.g. GitHub) -->
  ## Credits
 
  ### Content
- <!-- Websites used -->
-https://unsplash.com/ - main tree image, team memebrs
 programs used: gitpod/github, Balsamiq Wireframes, Procreate.
-https://www.graftingardeners.co.uk/tree-surgery-services-london/
-https://www.codingnepalweb.com/scroll-to-top-button-html-css/
+https://www.graftingardeners.co.uk/tree-surgery-services-london/ - inspiration for descriptions
+https://www.codingnepalweb.com/scroll-to-top-button-html-css/ -scroll button
  ### Media
- <!-- Images used -->
-
+https://stock.adobe.com/ -images gallery services
+https://unsplash.com/ - main tree image, team memebrs
 

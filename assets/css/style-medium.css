@@ -46,6 +46,11 @@
 
     /* Meet the team */
 
+    #members {
+    padding: 0 5%;
+    margin: 5%;
+    }
+
     #meet-the-team p {
         width: 40%;
         margin: 10%;
@@ -56,7 +61,7 @@
        width: 30%;
        margin: 10%;
        position:relative;
-       bottom: 320px;
+       bottom: 280px;
     }
 
     #sam {

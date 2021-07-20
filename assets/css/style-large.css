@@ -35,15 +35,13 @@
 
     /* Meet The Team */
 
-     #members {
-        position: relative;
-        bottom: 100px;
-    }
+    #meet-the-team img {
+        bottom: 360px;
+     }
+ 
 
     #meet-the-team p {
         font-size: large;
-        position: relative;
-        top: 100px;
     }
 
     #meet-the-team h2 {
@@ -151,19 +149,20 @@
 
 @media screen and (min-width: 1050px) {
     
-    /* About Us */
+    /* Meet the Team */
+  
+    #members {
+        bottom: 250px;
+     }
 
     #meet-the-team p {
         top: 250px;
      }
 
     #meet-the-team img {
-        bottom: 250px; 
+        bottom: 450px; 
      }
-
-    #members {
-        bottom: 250px;
-     }
+ 
 
      /* services */
 
@@ -175,12 +174,6 @@
      #services p {
         margin: 90px 0 0 60px
      }
-
-
-
-
-
-
 
      /* Contact Us */
 
