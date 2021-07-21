@@ -182,14 +182,41 @@ The HTML was then re-tested and results came back with no errors.
 
  ## Deployment
 
- <!-- the process you went through to deploy the project to a hosting platform (e.g. GitHub) -->
+ The site was deployed to GitHub pages.
+
+The steps to deploy are as follows:
+
+- Frist I created a new repository by clicking new in the GitHub repository menu
+- I used the Code-institute-Org/gitpod-full-template and created a repositiory name.
+- I continued by clicking in the create repository button at the bottom of the page.
+- When it had been created i then went to settings.
+- Scrolled down to github pages where it says "Pages settings now has its own dedicated tab! Check it out here!" And i followed the link.
+- When on github pages i selected the source to be the main branch and pressed save.
+- A message then pops up that says " Your site is ready to be published at  Your site is published at https://et9719.github.io/GreenwoodAS/" and whn clicked on will take you to the site. 
+
  ## Credits
 
  ### Content
-programs used: gitpod/github, Balsamiq Wireframes, Procreate.
-https://www.graftingardeners.co.uk/tree-surgery-services-london/ - inspiration for descriptions
-https://www.codingnepalweb.com/scroll-to-top-button-html-css/ -scroll button
+
+1. https://color.adobe.com/create/color-wheel : I used this site to help me choose the colors for the text on my site.
+
+2. https://www.w3schools.com/ : I used this to help me when adding a map in the about us section.
+
+3. https://www.codingnepalweb.com/scroll-to-top-button-html-css/ : This site was used to help create the scroll to top button. 
+
+4. https://www.graftingardeners.co.uk/tree-surgery-services-london/ : Thia site was inspiration for the descriptions of each service in the services section.
+
+5. https://gitpod.io/workspaces and https://github.com/ : were used to create the site
+
  ### Media
-https://stock.adobe.com/ -images gallery services
-https://unsplash.com/ - main tree image, team memebrs
+
+1. Balsamiq Wireframes : This was used to create the wireframes used to design the site.
+
+2. Procreate : I used this programe to edit the images for the meet the team section.
+
+3. https://stock.adobe.com/ : I found my images for the Gallery and Services sections.
+
+4. https://unsplash.com/ : I found the images for the landing page image and team members. 
+
+
 
