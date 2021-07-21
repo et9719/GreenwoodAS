@@ -7,7 +7,34 @@ Sam doesn't currently have social media platforms set up for his buisness, so he
 
 <img src="assets/images/am- i-responsive.png" alt="Live website image">
 
-<!-- Table of contents-->
+## Table of contents
+
+1. [Client Expectations](#client-expectations)
+2. [User Expectations](#user-expectations)
+3. [Wireframes](#wireframes)
+    - [Home](#home)
+    - [Services](#services)
+    - [Contact Us](#contact-us)
+4. [Features](#features)
+    - [Navigation Bar](#navigation-bar)
+    - [The Landing Page Image](#the-landing-page-image)
+    - [About Us Section](#about-us-section)
+    - [Meet The Team Section](#meet-the-team-section)
+    - [Gallery Section](#gallery-section)
+    - [Services Page](#services-page)
+    - [Contact Us Page](#contact-us-page)
+    - [Footer](#footer)
+5. [Testing](#testing)
+    - [HTML](#html)
+    - [CSS](#css)
+6. [Deployment](#deployment)
+7. [Credits](#credits)
+    - [Content](#content)
+    - [Media](#media)
+
+
+
+
 
 ## Client Expectations
 
@@ -31,20 +58,20 @@ The client want the website to be easy to use as they often get older clients, s
 
 ## Wireframes
 
-### Home Page
+### Home 
 
 <img src="assets/images/home-mobile-wireframe.png" alt="wireframe for mobile version of the homepage">
 
 <img src="assets/images/home-wireframe-1.png" alt="wireframe for the homepage">
 <img src="assets/images/home-wireframe-2.png" alt="wireframe for the homepage">
 
-### Services Page
+### Services 
 
 <img src="assets/images/services-mobile-wireframe.png" alt="wireframe for mobile version of the services page">
 
 <img src="assets/images/services-wireframe.png" alt="wireframe for the services page">
 
-### Contact Us Page
+### Contact Us 
 
 <img src="assets/images/contact-us-mobile-wireframe.png" alt="wireframe for mobile version of the contact us page">
 
@@ -94,7 +121,7 @@ The client want the website to be easy to use as they often get older clients, s
 
 - This section can help customers make a quicker decition on if this is the company they want to go with. 
 
-<img src="assets/images/gallery-sec.png" alt="Image of teh gallery section">
+<img src="assets/images/gallery-sec.png" alt="Image of the gallery section">
 
 ### Services Page
 
@@ -122,12 +149,10 @@ The client want the website to be easy to use as they often get older clients, s
 
 ## Testing
 
-### Validator Testing
-
 ### HTML
 
-HTML was tested using the offical [W3C validator] (https://validator.w3.org/nu/) 
-<!-- sort out link -->
+HTML was tested using the offical [W3C validator](https://validator.w3.org/nu/) 
+
 
 The following errors/warnings were found:
 
@@ -136,8 +161,6 @@ The following errors/warnings were found:
  <img src="assets/images/test-contact-result-2.png" alt="An error with the text-input class">
 
  <img src="assets/images/test-contact-result-3.png" alt="A warning that the form section has no heading">
-
-### Errors/Warnings Fixed:
 
   1. contact information heading missing.
      - A heading was not needed so i changed the contact information section into a div inside 
@@ -164,8 +187,8 @@ The HTML was then re-tested and results came back with no errors.
 
 ### CSS
  
- CSS was tested using the the official [(Jigsaw) validator] https://jigsaw.w3.org/css-validator/
- <!-- Sort out link -->
+ CSS was tested using the the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
+ 
 
  One error was found:
 
@@ -192,7 +215,7 @@ The steps to deploy are as follows:
 - When it had been created i then went to settings.
 - Scrolled down to github pages where it says "Pages settings now has its own dedicated tab! Check it out here!" And i followed the link.
 - When on github pages i selected the source to be the main branch and pressed save.
-- A message then pops up that says " Your site is ready to be published at  Your site is published at https://et9719.github.io/GreenwoodAS/" and whn clicked on will take you to the site. 
+- A message then pops up that says " Your site is ready to be published at  Your site is published at https://et9719.github.io/GreenwoodAS/" and when clicked on will take you to the site. 
 
  ## Credits
 
