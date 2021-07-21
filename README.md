@@ -5,7 +5,7 @@ The client Sam Greenwood had been working for another tree surgery company for t
 
 Sam doesn't currently have social media platforms set up for his buisness, so he is quite keen to get a website up and running for his customers to see what they offer.
 
-<!-- Live website image-->
+<img src="assets/images/am- i-responsive.png" alt="Live website image">
 
 <!-- Table of contents-->
 
@@ -60,17 +60,23 @@ The client want the website to be easy to use as they often get older clients, s
 
 - The home page has multiple sections so the navigation bar has links to the 'About Us' and 'Gallery' sections on the home page to make them easier to find.
 
+<img src="assets/images/nav-bar.png" alt="Image of navigation bar">
+
 ### The Landing Page Image
 
 - The landing page image with overlay text is there to introduce the user to the company 
 
 - the overlay text also states that the company is London based so users are aware of the area in which the company operate. 
 
+<img src="assets/images/landing-page-img.png" alt="Image of the landing page image">
+
 ### About Us Section
 
 - The About Us section gives teh users a little bit of background on who the company are and how they started up.
 
 - It also includes a map of the areas that the company works in.
+
+<img src="assets/images/about-us-sec.png" alt="Image of About us section">
 
 ### Meet The Team Section
 
@@ -80,11 +86,15 @@ The client want the website to be easy to use as they often get older clients, s
 
 - An image of the staff member is also included so the customers know who to expect.
 
+<img src="assets/images/meet-team-sec.png" alt="Image of meet the team section">
+
 ### Gallery Section
 
 - The Gallery will provide the user with images that show what their work looks like.#
 
 - This section can help customers make a quicker decition on if this is the company they want to go with. 
+
+<img src="assets/images/gallery-sec.png" alt="Image of teh gallery section">
 
 ### Services Page
 
@@ -92,17 +102,23 @@ The client want the website to be easy to use as they often get older clients, s
 
 - These descriptions come alsongside an image of the sevice to make it easier and faster for customers to identify which service it is that they require.
 
+<img src="assets/images/services-sec.png" alt="Image of the services page">
+
 ### Contact Us Page
 
 - The contact us page has the companies information (email address and phone number) if the user would like to talk directly to a member of staff.
 
 - The page also incudes a form that enables the user to leave a message for client. This form allows the user to leave a description of their request but also takes certain information to allow the client to get in contact via either email or phone with the user to answer any questions.
 
+<img src="assets/images/contact-sec.png" alt="Image of the contact us page">
+
 ### Footer
 
 - The footer includes important documentation like the terms and conditions of their services.
 
 - The footer also has the companies email and phone number so that their contact information can be found easily on and page on the site. 
+
+<img src="assets/images/footer-sec.png" alt="Image of the footer">
 
 ## Testing
 
