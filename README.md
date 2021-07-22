@@ -1,9 +1,7 @@
 # Greenwood's Arborist Services
 Greenwood's Arborist Services is a tree surgery company based in South West London, England.
 
-The client Sam Greenwood had been working for another tree surgery company for the past 10 years. Over the past few months he has decided to start up his own buisness and work for himself alongside other tree surgeons he has met throughout his career.
-
-Sam doesn't currently have social media platforms set up for his buisness, so he is quite keen to get a website up and running for his customers to see what they offer.
+The client Sam Greenwood had been working for another tree surgery company for the past 10 years. Over the past few months, he has decided to start up his own business and work for himself alongside other tree surgeons he has met throughout his career.
 
 <img src="assets/images/am- i-responsive.png" alt="Live website image">
 
@@ -43,17 +41,17 @@ Features the client wants on the website:
 - Details of the areas that the company works in.
 - A section for customers to get to know greenwoods team members.
 - photos of previous work done by the company.
-- A list of all of the services the company can provide.
+- A list of all the services the company can provide.
 - A form for clients to contact Greenwoods services.
 
-The client want the website to be easy to use as they often get older clients, so the site should be simple and easy to work your way around, not over complicated.
+The client wants the website to be easy to use as they often get older clients, so the site should be simple and easy to work your way around, not over complicated.
 
 ## User Expectations
 
-- As a user, I want to be able to easiy navagate through the website.
-- As a user, I want to see the staff before they arrive at my property to do a job, so i have a   better idea of who I am inviting into my home.
+- As a user, I want to be able to easily navigate through the website.
+- As a user, I want to see the staff before they arrive at my property to do a job, so I have a   better idea of who I am inviting into my home.
 - As a user, I want to see the quality of their work before booking them to do a job.
-- As a user, I want to easily see if they can offer the service im looking for. 
+- As a user, I want to easily see if they can offer the service I'm looking for. 
 - As a user, I want to be able to easily get in contact with the company to book a job.
 
 ## Wireframes
@@ -83,9 +81,9 @@ The client want the website to be easy to use as they often get older clients, s
 
 - The Navigation bar is fully responsive and identical on all three pages this helps give the site a common theme.
 
-- The company logo is also part of the naviagtion bar, this also acts as a link back to the home page.
+- The company logo is also part of the navigation bar, this also acts as a link back to the home page.
 
-- The home page has multiple sections so the navigation bar has links to the 'About Us' and 'Gallery' sections on the home page to make them easier to find.
+- The home page has multiple sections, so the navigation bar has links to the 'About Us' and 'Gallery' sections on the home page to make them easier to find.
 
 <img src="assets/images/nav-bar.png" alt="Image of navigation bar">
 
@@ -99,7 +97,7 @@ The client want the website to be easy to use as they often get older clients, s
 
 ### About Us Section
 
-- The About Us section gives teh users a little bit of background on who the company are and how they started up.
+- The About Us section gives the users a little bit of background on who the company are and how they started up.
 
 - It also includes a map of the areas that the company works in.
 
@@ -107,7 +105,7 @@ The client want the website to be easy to use as they often get older clients, s
 
 ### Meet The Team Section
 
-- This section is very important for making customers feel comfortable inviting workers into their homes. A large majority of Greenwoods Arborist Services customers are age 70+ and no longer want to or are able to take care of their gardens themselves, It is important that the customer can see who they are inviting into their homes to make it a more relaxing experience. 
+- This section is especially important for making customers feel comfortable inviting workers into their homes. A large majority of Greenwoods Arborist Services customers are age 70+ and no longer want to or are able to take care of their gardens themselves, it is important that the customer can see who they are inviting into their homes to make it a more relaxing experience. 
 
 - This section will include a description of each staff member and what they do for the company.
 
@@ -117,9 +115,9 @@ The client want the website to be easy to use as they often get older clients, s
 
 ### Gallery Section
 
-- The Gallery will provide the user with images that show what their work looks like.#
+- The Gallery will provide the user with images that show what their work looks like.
 
-- This section can help customers make a quicker decition on if this is the company they want to go with. 
+- This section can help customers make a quicker decision on if this is the company they want to go with. 
 
 <img src="assets/images/gallery-sec.png" alt="Image of the gallery section">
 
@@ -127,15 +125,15 @@ The client want the website to be easy to use as they often get older clients, s
 
 - Each section on the services page has a short description of what the service is.
 
-- These descriptions come alsongside an image of the sevice to make it easier and faster for customers to identify which service it is that they require.
+- These descriptions come alongside an image of the service to make it easier and faster for customers to identify which service it is that they require.
 
 <img src="assets/images/services-sec.png" alt="Image of the services page">
 
 ### Contact Us Page
 
-- The contact us page has the companies information (email address and phone number) if the user would like to talk directly to a member of staff.
+- The contact us page has the company’s information (email address and phone number) if the user would like to talk directly to a member of staff.
 
-- The page also incudes a form that enables the user to leave a message for client. This form allows the user to leave a description of their request but also takes certain information to allow the client to get in contact via either email or phone with the user to answer any questions.
+- The page also includes a form that enables the user to leave a message for client. This form allows the user to leave a description of their request but also takes certain information to allow the client to get in contact via either email or phone with the user to answer any questions.
 
 <img src="assets/images/contact-sec.png" alt="Image of the contact us page">
 
@@ -151,7 +149,7 @@ The client want the website to be easy to use as they often get older clients, s
 
 ### HTML
 
-HTML was tested using the offical [W3C validator](https://validator.w3.org/nu/) 
+HTML was tested using the official [W3C validator](https://validator.w3.org/nu/) 
 
 
 The following errors/warnings were found:
@@ -163,31 +161,30 @@ The following errors/warnings were found:
  <img src="assets/images/test-contact-result-3.png" alt="A warning that the form section has no heading">
 
   1. contact information heading missing.
-     - A heading was not needed so i changed the contact information section into a div inside 
+     - A heading was not needed so I changed the contact information section into a div inside 
        a main section on the contact us page.
 
 Retested: Warning cleared
 
-  2. Two classes were entered seperatly into the input elements in the form div.
+  2. Two classes were entered separately into the input elements in the form div.
      - I added the second class into the first as two were not needed. 
      - Originally it  looked like: class="form-input" class="text-input"
      - Now looks like: class="form-input text-input"
 
-Retested: Error paassed
+Retested: Error passed
 
   3. form heading missing 
-     - A heading was not needed so i changed the form section into a div inside 
-       a main section on the contact us page.
+     - A heading was not needed so I changed the form section into a div inside a main section on the contact us page.
 
 Retested: Warning cleared
 
-The HTML was then re-tested and results came back with no errors.
+The HTML was then re-tested, and results came back with no errors.
 
 <img src="assets/images/html-test.png" alt="image showing errors are cleared">
 
 ### CSS
  
- CSS was tested using the the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
+ CSS was tested using the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
  
 
  One error was found:
@@ -199,7 +196,7 @@ The HTML was then re-tested and results came back with no errors.
 
   Retested: Error Passed
 
-  The CSS was then re-tested and results came back with no errors.
+  The CSS was then re-tested, and results came back with no errors.
 
    <img src="assets/images/css-test-corrected.png" alt="CSS test showing no error">  
 
@@ -209,12 +206,12 @@ The HTML was then re-tested and results came back with no errors.
 
 The steps to deploy are as follows:
 
-- Frist I created a new repository by clicking new in the GitHub repository menu
-- I used the Code-institute-Org/gitpod-full-template and created a repositiory name.
+- First, I created a new repository by clicking new in the GitHub repository menu
+- I used the Code-institute-Org/gitpod-full-template and created a repository name.
 - I continued by clicking in the create repository button at the bottom of the page.
-- When it had been created i then went to settings.
-- Scrolled down to github pages where it says "Pages settings now has its own dedicated tab! Check it out here!" And i followed the link.
-- When on github pages i selected the source to be the main branch and pressed save.
+- When it had been created I then went to settings.
+- Scrolled down to Github pages where it says "Pages settings now has its own dedicated tab! Check it out here!" And I followed the link.
+- When on Github pages I selected the source to be the main branch and pressed save.
 - A message then pops up that says " Your site is ready to be published at  Your site is published at https://et9719.github.io/GreenwoodAS/" and when clicked on will take you to the site. 
 
  ## Credits
@@ -233,9 +230,9 @@ The steps to deploy are as follows:
 
  ### Media
 
-1. Balsamiq Wireframes : This was used to create the wireframes used to design the site.
+1. Balsamiq Wireframes: This was used to create the wireframes used to design the site.
 
-2. Procreate : I used this programe to edit the images for the meet the team section.
+2. Procreate: I used this programme to edit the images for the meet the team section.
 
 3. https://stock.adobe.com/ : I found my images for the Gallery and Services sections.
 

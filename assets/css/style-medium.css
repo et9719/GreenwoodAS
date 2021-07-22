@@ -117,6 +117,10 @@
         margin: 4%;
      }
 
+     #gallery iframe {
+        height: 400px;
+    }
+
     /* Footer */
 
      footer {

@@ -65,6 +65,10 @@
         margin: 4%;
      }
 
+     #gallery iframe {
+        height: 500px;
+    }
+
     /* Footer */
 
     footer {
