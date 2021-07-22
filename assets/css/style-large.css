@@ -1,7 +1,12 @@
 @media screen and (min-width: 950px) {
 
+    header {
+        height: 210px;
+    }
+
     nav li {
-        margin-left: 60px;
+        margin-left: 50px;
+        margin-top: 30px;
         font-size: x-large;
     }
 
@@ -72,25 +77,32 @@
     /* Footer */
 
     footer {
-        height: 190px;
+        height: 220px;
+        position: relative;
+        top: 20px
     }
      
      #docs a{
          font-size: 200%;
          margin-left: 70px;
+         top: 70px;
      }
 
      #f-contact {
         font-size: 150%; 
+        bottom: 15px;
+        right: 60px;
      }
 
      #f-contact i {
         margin-right: 20px;
+        
      } 
 
      #social i {
         font-size: 600%;
         margin-left:100px;
+        top: 30px;
      }
 
      /* Services */
@@ -113,7 +125,7 @@
     /* Contact Us */
 
     #contact-page {
-        height: 880px;
+        height: 900px;
     }
 
     #contact-page h2 {

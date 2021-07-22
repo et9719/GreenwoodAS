@@ -108,7 +108,7 @@ nav a:hover {
     height: 320px;
     width: 100%;
     background: url('../images/home-page.jpg') center center / cover no-repeat fixed;
-}
+} 
 
 #cover-text {
     font-size: 80%;

@@ -22,11 +22,14 @@ The client Sam Greenwood had been working for another tree surgery company for t
     - [Services Page](#services-page)
     - [Contact Us Page](#contact-us-page)
     - [Footer](#footer)
-5. [Testing](#testing)
+5. [Extra Features](#extra-features)
+    - [Nav bar on mobile version](#nav-bar-on-mobile-version)
+    - [Video](#video)
+6. [Testing](#testing)
     - [HTML](#html)
     - [CSS](#css)
-6. [Deployment](#deployment)
-7. [Credits](#credits)
+7. [Deployment](#deployment)
+8. [Credits](#credits)
     - [Content](#content)
     - [Media](#media)
 
@@ -145,6 +148,20 @@ The client wants the website to be easy to use as they often get older clients, 
 
 <img src="assets/images/footer-sec.png" alt="Image of the footer">
 
+## Extra Features 
+
+### Nav bar on mobile version
+
+- the navigation bar is set out slightly differently depending on which size screen you are using, this is to allow the font size to be large enough for users to read.
+
+<img src="assets/images/mobile-nav.png" alt="Image of the navigation bar on a mobile sized screen">
+
+### Video
+
+- I added a video in the gallery section to allow the user to engage more. 
+
+<img src="assets/images/video.png" alt="Image of the video">
+
 ## Testing
 
 ### HTML
@@ -220,7 +237,7 @@ The steps to deploy are as follows:
 
 1. https://color.adobe.com/create/color-wheel : I used this site to help me choose the colors for the text on my site.
 
-2. https://www.w3schools.com/ : I used this to help me when adding a map in the about us section.
+2. https://www.w3schools.com/ : I used this to help me when adding a map in the about us section and the video in the gallery section.
 
 3. https://www.codingnepalweb.com/scroll-to-top-button-html-css/ : This site was used to help create the scroll to top button. 
 
