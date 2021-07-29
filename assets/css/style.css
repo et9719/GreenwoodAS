@@ -267,7 +267,9 @@ nav a:hover {
 #form {
     width: 70%;
     text-align: center;
-    margin: 10%;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
     padding: 5%;
     background-color: white;
     border: 3px solid #000;
