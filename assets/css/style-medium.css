@@ -23,7 +23,6 @@
         font-size: 200%;
     }
 
-    
     #cover-text h3 {
         font-size: 150%;
     }
@@ -47,8 +46,8 @@
     /* Meet the team */
 
     #members {
-    padding: 0 5%;
-    margin: 5%;
+        padding: 0 5%;
+        margin: 5%;
     }
 
     #meet-the-team p {
@@ -94,20 +93,20 @@
     #robert p {
         float:right;
         text-align: left;
-     }
+    }
 
-     #emma {
+    #emma {
         height:200px;
-     }
+    }
 
-     #emma p {
+    #emma p {
         text-align: right;
-     }
+    }
     
-     #emma img {
+    #emma img {
         position: relative;
         left: 50%;
-     }
+    }
 
     /* Gallery */
 
@@ -115,44 +114,44 @@
     #gallery img {
         width: 25%; 
         margin: 4%;
-     }
+    }
 
-     #gallery iframe {
+    #gallery iframe {
         height: 400px;
     }
 
     /* Footer */
 
-     footer {
+    footer {
         height: 170px;
-     }
+    }
      
-     #docs a{
-         font-size: 150%;
-         margin-left: 35px;
-         position: relative;
-         top: 40px;
-     }
+    #docs a{
+        font-size: 150%;
+        margin-left: 35px;
+        position: relative;
+        top: 40px;
+    }
 
-     #f-contact {
+    #f-contact {
         font-size: 140%; 
         width: 40%;
         position:relative;
         bottom: 40px;
         margin-right: 30px;
-     }
+    }
 
-     #f-contact i {
+    #f-contact i {
         font-size: 150%;
-     } 
+    } 
 
-     #social i {
+    #social i {
         font-size: 500%;
         position: relative;
         top: 10px;
         right: 20px;
         margin-left:60px;
-     }
+    }
 
     /* Services */
 
@@ -163,7 +162,6 @@
     #services img {
         width: 250px;
         margin: 50px;
-        
         clear: left;
     }
     
@@ -209,7 +207,6 @@
         bottom: 30px;
         left: 15px;
         margin: 0 10px 0 0;
-     
     }
     
     /* Form */
@@ -242,7 +239,5 @@
         font-size: medium;
         padding-bottom: 20px;
     }
-     
-
 }
 

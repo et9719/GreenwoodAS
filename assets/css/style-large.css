@@ -17,7 +17,6 @@
     #cover-text h2 {
         font-size: 250%;
     }
-
     
     #cover-text h3 {
         font-size: 200%;
@@ -42,9 +41,8 @@
 
     #meet-the-team img {
         bottom: 360px;
-     }
+    }
  
-
     #meet-the-team p {
         font-size: large;
     }
@@ -68,9 +66,9 @@
     #gallery img {
         width: 25%; 
         margin: 4%;
-     }
+    }
 
-     #gallery iframe {
+    #gallery iframe {
         height: 500px;
     }
 
@@ -82,30 +80,30 @@
         top: 20px
     }
      
-     #docs a{
-         font-size: 200%;
-         margin-left: 70px;
-         top: 70px;
-     }
+    #docs a{
+        font-size: 200%;
+        margin-left: 70px;
+        top: 70px;
+    }
 
-     #f-contact {
+    #f-contact {
         font-size: 150%; 
         bottom: 15px;
         right: 60px;
-     }
+    }
 
-     #f-contact i {
+    #f-contact i {
         margin-right: 20px;
         
-     } 
+    } 
 
-     #social i {
+    #social i {
         font-size: 600%;
         margin-left:100px;
         top: 30px;
-     }
+    }
 
-     /* Services */
+    /* Services */
 
     #services h2 {
         font-size: xx-large;
@@ -158,6 +156,7 @@
     #form {
         bottom: 58px;
     }
+
     #times p {
        padding-bottom: 19px;
     }
@@ -169,29 +168,28 @@
   
     #members {
         bottom: 250px;
-     }
+    }
 
     #meet-the-team p {
         top: 250px;
-     }
+    }
 
     #meet-the-team img {
         bottom: 450px; 
-     }
- 
+    }
 
-     /* services */
+    /* services */
 
-     #services img {
+    #services img {
         width: 400px;
         margin: 50px 0px 50px 200px;
-     }
+    }
     
-     #services p {
+    #services p {
         margin: 90px 0 0 60px
-     }
+    }
 
-     /* Contact Us */
+    /* Contact Us */
 
     #contact-page {
         height: 900px;
@@ -205,7 +203,6 @@
     
     #contact-info {
         padding: 70px 25px;
-      
     }
     
     #times {
@@ -219,5 +216,4 @@
         bottom: 17%;
         right: 2%;
     }
-
 }
