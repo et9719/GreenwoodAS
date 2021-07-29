@@ -245,6 +245,11 @@ The steps to deploy are as follows:
 
 5. https://gitpod.io/workspaces and https://github.com/ : were used to create the site
 
+6. https://stackoverflow.com/questions/31363971/github-pages-background-image-not-showing-up :
+   I had a bit of trouble with the background image on my contact us page. It would show when opened in Gitpod but would not push to Gut hub. All i had to do was change the image path.
+
+    <img src="assets/images/push-issue.png" alt="Screenshot of the site used to help solve the file path issue">  
+
  ### Media
 
 1. Balsamiq Wireframes: This was used to create the wireframes used to design the site.
