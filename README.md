@@ -3,6 +3,8 @@ Greenwood's Arborist Services is a tree surgery company based in South West Lond
 
 The client Sam Greenwood had been working for another tree surgery company for the past 10 years. Over the past few months, he has decided to start up his own business and work for himself alongside other tree surgeons he has met throughout his career.
 
+[Click here to go to the live website!](https://et9719.github.io/GreenwoodAS/)
+
 <img src="assets/images/am- i-responsive.png" alt="Live website image">
 
 ## Table of contents
@@ -216,6 +218,17 @@ The HTML was then re-tested, and results came back with no errors.
   The CSS was then re-tested, and results came back with no errors.
 
    <img src="assets/images/css-test-corrected.png" alt="CSS test showing no error">  
+
+
+### Manual Testing 
+
+Component | Function | Does it work? | Fixed? 
+--------- | --------- | ----------------- | ------ |
+Logo | Takes user to home page | Yes | N/A
+Navbar: Home | Takes user to home page | Yes | N/A
+Navbar: About Us | Takes user to about us section | Yes | N/A
+
+
 
  ## Deployment
 
