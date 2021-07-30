@@ -227,6 +227,22 @@ Component | Function | Does it work? | Fixed?
 Logo | Takes user to home page | Yes | N/A
 Navbar: Home | Takes user to home page | Yes | N/A
 Navbar: About Us | Takes user to about us section | Yes | N/A
+Navbar: Services | Takes user to services page | Yes | N/A
+Navbar: Gallery | Takes user to gallery section | Yes | N/A
+Navbar: Contact Us | Takes user to contact us page | Yes | N/A
+About us: Map | Takes user to google maps | Yes | N/A
+Gallery: Video | Video to play when play button is clicked | Yes | N/A
+Footer: Facebook icon | Takes user to Facebook in new tab | Yes | N/A
+Footer: Youtube icon | Takes user to Youtube in new tab | Yes | N/A
+Footer: Instagram icon | Takes user to Instagram in new tab | Yes | N/A
+Footer: Terms and Conditions | Currently takes user to home page in new tab (will eventually take user to terms and conditions in new tab) | Yes | N/A
+Footer: Privacy Policy | Currently takes user to home page in new tab (will eventually take user to Privacy Policy in new tab) | Yes | N/A
+Scroll button | Takes user to top of the page | Yes | N/A
+Contact Us: Form |    |    |    
+
+
+
+
 
 
 
