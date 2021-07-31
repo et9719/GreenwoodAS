@@ -236,7 +236,7 @@ nav a:hover {
 
 #contact-page {
     background-image: url(../images/contact-b.jpeg);
-    height: 900px;
+    height: 980px;
     position: relative;
     top: 30px;
 }
@@ -263,31 +263,40 @@ nav a:hover {
 #form {
     width: 70%;
     text-align: center;
-    margin-top: 10%;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin: 10%;
     padding: 5%;
     background-color: white;
     border: 3px solid #000;
 }
 
-::placeholder { 
-    color: black;
-    position:absolute;
-    top:1px;
+.inline-label { 
+    white-space: nowrap;
+    max-width: 150px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    float:left;     
 }
 
-#name, #email {
-    width: 48%;
-    display: inline-block;
+.input-main {
+    display: block;
     border: 1px solid #275c3b;
     margin-bottom: 5px;
 }
 
-#number, #address {
-    border: 1px solid #275c3b;
-    width: 98%;
-    margin-bottom: 5px;
+#name {
+    width: 76%;
+}
+
+#email {
+    width: 77%;
+}
+
+#number {
+    width: 69%;
+}
+
+#address {
+    width: 70%;
 }
 
 #description {
