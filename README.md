@@ -84,7 +84,7 @@ The client wants the website to be easy to use as they often get older clients, 
 
 - The Navigation bar is fully responsive and identical on all three pages this helps give the site a common theme.
 
-- The company logo is also part of the navigation bar, this also acts as a link back to the home page.
+- The company logo is also part of the navigation bar; this also acts as a link back to the home page.
 
 - The home page has multiple sections, so the navigation bar has links to the 'About Us' and 'Gallery' sections on the home page to make them easier to find.
 
@@ -152,7 +152,7 @@ The client wants the website to be easy to use as they often get older clients, 
 
 ### Nav bar on mobile version
 
-- the navigation bar is set out slightly differently depending on which size screen you are using, this is to allow the font size to be large enough for users to read.
+- the navigation bar is set out slightly differently depending on which size screen you are using; this is to allow the font size to be large enough for users to read.
 
 <img src="assets/images/mobile-nav.png" alt="Image of the navigation bar on a mobile sized screen">
 
@@ -185,7 +185,7 @@ Retested: Warning cleared
 
   2. Two classes were entered separately into the input elements in the form div.
      - I added the second class into the first as two were not needed. 
-     - Originally it  looked like: class="form-input" class="text-input"
+     - Originally it looked like: class="form-input" class="text-input"
      - Now looks like: class="form-input text-input"
 
 Retested: Error passed
@@ -235,7 +235,7 @@ Footer: Instagram icon | Takes user to Instagram in new tab | Yes | N/A
 Footer: Terms and Conditions | Currently takes user to home page in new tab (will eventually take user to terms and conditions in new tab) | Yes | N/A
 Footer: Privacy Policy | Currently takes user to home page in new tab (will eventually take user to Privacy Policy in new tab) | Yes | N/A
 Scroll button | Takes user to top of the page | Yes | N/A
-Contact Us: Form |  Takes informtion that the user enters into the input and shows them on https://formdump.codeinstitute.net/  | No | Yes
+Contact Us: Form | Takes informtion that the user enters into the input and shows them on https://formdump.codeinstitute.net/  | No | Yes
 
 
 I also carried out manual testing which tested the responsiveness of the website.
@@ -258,7 +258,7 @@ I have tested my site on the following devices:
 
 - fixed? YES
 
-   All i had to do was change the image path.
+   All I had to do was change the image path.
 
     <img src="assets/images/push-issue.png" alt="Screenshot of the site used to help solve the file path issue">  
 
@@ -266,7 +266,7 @@ I have tested my site on the following devices:
 
 -fixed? YES
 
-   i had originally put placeholders into my text input boxes, i hadnt given them a lable and a name to match. once i had changed this i re-tested the form and all of the informaiton pushed through.
+   i had originally put placeholders into my text input boxes, i hadnt given them a lable and a name to match. once i had changed this i re-tested the form and all the information pushed through.
 
 
  ## Deployment
@@ -278,10 +278,10 @@ The steps to deploy are as follows:
 - First, I created a new repository by clicking new in the GitHub repository menu
 - I used the Code-institute-Org/gitpod-full-template and created a repository name.
 - I continued by clicking in the create repository button at the bottom of the page.
-- When it had been created I then went to settings.
+- When it had been created, I then went to settings.
 - Scrolled down to Github pages where it says "Pages settings now has its own dedicated tab! Check it out here!" And I followed the link.
 - When on Github pages I selected the source to be the main branch and pressed save.
-- A message then pops up that says " Your site is ready to be published at  Your site is published at https://et9719.github.io/GreenwoodAS/" and when clicked on will take you to the site. 
+- A message then pops up that says, " Your site is ready to be published at Your site is published at https://et9719.github.io/GreenwoodAS/" and when clicked on will take you to the site. 
 
  ## Credits
 
