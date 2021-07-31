@@ -238,19 +238,18 @@ Scroll button | Takes user to top of the page | Yes | N/A
 Contact Us: Form |  Takes informtion that the user enters into the input and shows them on https://formdump.codeinstitute.net/  | No | Yes
 
 
-- I also carried out manual testing which tested the responsiveness of the website.
-
+I also carried out manual testing which tested the responsiveness of the website.
 I have tested my site on the following devices:
 
-Moto G4
-Galaxy S5
-iphone 5/SE
-iphone 6/7/8
-iphone 6/7/8 Plus
-iPhone X
-iPad
-ipad pro
-Desktop
+- Moto G4
+- Galaxy S5
+- iphone 5/SE
+- iphone 6/7/8
+- iphone 6/7/8 Plus
+- iPhone X
+- iPad
+- ipad pro
+- Desktop
 
 
 ### Bugs
