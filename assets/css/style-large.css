@@ -147,73 +147,203 @@
         font-size: large;
         top: 41%;
         width: 35%;
-        padding: 16px 0;
+        padding: 38px 0;
         left: 57%;
+        margin-top: 85px;
     }
+
+    #times p {
+        padding-bottom: 19px;
+     }
 
     /* form */
 
     #form {
         bottom: 58px;
     }
-
-    #times p {
-       padding-bottom: 19px;
-    }
 }
 
-@media screen and (min-width: 1050px) {
+@media screen and (min-width: 1200px) {
     
-    /* Meet the Team */
-  
-    #members {
-        bottom: 250px;
-    }
-
+    /* Meet The Team */
+ 
     #meet-the-team p {
-        top: 250px;
+        
+        position:relative;
+        top:50px;
     }
 
-    #meet-the-team img {
-        bottom: 450px; 
+    #members {
+        padding-bottom: 100px;
     }
 
-    /* services */
+    /* Services */
 
     #services img {
-        width: 400px;
-        margin: 50px 0px 50px 200px;
-    }
-    
-    #services p {
-        margin: 90px 0 0 60px
+        margin: 50px 50px 50px 200px;
     }
 
     /* Contact Us */
 
-    #contact-page {
-        height: 900px;
-    }
-
-    #contact-us {
-        margin-left: 8%;
-        position: relative;
-        bottom: 20px;
-    }
-    
-    #contact-info {
-        padding: 70px 25px;
-    }
-    
-    #times {
-        top: 32%;
-        width: 30%;
-        left: 58%;
-        padding: 31px 0 35px 0;
-    }
-
     #form {
-        bottom: 17%;
-        right: 2%;
+        margin-top: 50px;
+    }
+
+    #times {
+        padding-bottom: 45px;
+        padding-top: 45px;
+        margin-top: 75px;
+    }
+
+    #contact-info {
+        padding: 82px 60px;
+        bottom: 20px;
+        left: 45px;
+    }
+  
+}
+
+@media screen and (min-width: 1400px) {
+
+    /* Meet The Team */
+ 
+    #meet-the-team p {
+        position:relative;
+        top:100px;
+    }
+
+    #members {
+        padding-bottom: 200px;
+    }
+
+    
+    #emma img {
+        padding-top: 50px;
+    }
+    
+    /* Services */
+
+    #services img {
+        margin: 50px 50px 50px 250px;
+    }
+
+    #services p {
+        margin-left: 100px;
+    }
+
+    /* Contact Us */
+
+    #times {
+        padding-bottom: 60px;
+        padding-top: 60px;
+        margin-top: 70px;
+    }
+
+    #contact-info {
+        padding: 82px 90px;
+        bottom: 10px;
+        left: 65px;
+    }
+
+    #contact-page {
+        height: 950px;
+    }
+}
+
+@media screen and (min-width: 1600px) {
+
+    /* Meet The Team */
+ 
+    #meet-the-team p {
+        position:relative;
+        top:150px;
+    }
+
+    #members {
+        padding-bottom: 300px;
+    }
+
+    /* Services */
+
+    #services p {
+        margin-left: 150px;
+    }
+
+    /* Contact Us */
+
+    #times {
+        padding-bottom: 70px;
+        padding-top: 70px;
+        margin-top: 90px;
+    }
+
+    #contact-info {
+        padding: 95px 120px;
+        bottom: 10px;
+        left: 80px;
+    }
+
+    #contact-page {
+        height: 1000px;
+    }
+}
+
+@media screen and (min-width: 1800px) {
+
+    /* Meet The Team */
+ 
+    #meet-the-team p {
+        position:relative;
+        top:300px;
+    }
+
+    #members {
+        padding-bottom: 800px;
+    }
+
+    #sam {
+        position: relative;
+        bottom: 100px;
+    }
+
+
+    #louise {
+        position: relative;
+        top: 100px;
+    }
+
+    #robert {
+        position: relative;
+        top: 200px;
+    }
+
+    #emma {
+        position: relative;
+        top: 300px;
+    }
+
+
+    /* Services */
+
+    #services p {
+        margin-left: 250px;
+    }
+
+    /* Contact Us */
+
+    #times {
+        padding-bottom: 90px;
+        padding-top: 90px;
+        margin-top: 70px;
+    }
+
+    #contact-info {
+        padding: 95px 160px;
+        bottom:4px;
+        left: 130px;
+    }
+
+    #contact-page {
+        height: 1150px;
     }
 }

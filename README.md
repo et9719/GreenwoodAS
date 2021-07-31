@@ -37,9 +37,6 @@ The client Sam Greenwood had been working for another tree surgery company for t
     - [Media](#media)
 
 
-
-
-
 ## Client Expectations
 
 Features the client wants on the website:
@@ -238,7 +235,23 @@ Footer: Instagram icon | Takes user to Instagram in new tab | Yes | N/A
 Footer: Terms and Conditions | Currently takes user to home page in new tab (will eventually take user to terms and conditions in new tab) | Yes | N/A
 Footer: Privacy Policy | Currently takes user to home page in new tab (will eventually take user to Privacy Policy in new tab) | Yes | N/A
 Scroll button | Takes user to top of the page | Yes | N/A
-Contact Us: Form |    |    |    
+Contact Us: Form |  Takes informtion that the user enters into the input and shows them on https://formdump.codeinstitute.net/  | No | Yes
+
+
+- I also carried out manual testing which tested the responsiveness of the website.
+
+I have tested my site on the following devices:
+
+Moto G4
+Galaxy S5
+iphone 5/SE
+iphone 6/7/8
+iphone 6/7/8 Plus
+iPhone X
+iPad
+ipad pro
+Desktop
+
 
 ### Bugs
 

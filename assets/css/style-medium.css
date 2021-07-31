@@ -227,7 +227,7 @@
         top: 39%;
         left: 55%;
         margin: 10% 5% 0 0;
-        padding: 10px 0;
+        padding: 28px 0;
         width: 40%;
     }
 
@@ -241,3 +241,9 @@
     }
 }
 
+
+@media screen and (min-width: 750px) {
+    nav ul {
+        padding-top:0;
+    }
+}

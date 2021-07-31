@@ -311,6 +311,10 @@ nav a:hover {
     margin-top: 10px;
 }
 
+.form-input {
+    border-radius:3px ;
+}
+
 .form-input:hover {
     background-color: #275c3b;
     color: #fafafa;
@@ -401,5 +405,30 @@ footer a {
 
     #gallery iframe {
         height:auto;
+    }
+}
+
+@media screen and (min-width: 410px) {
+    nav ul {
+        padding-top:25px;
+    }
+}
+
+@media screen and (min-width: 350px) {
+    
+    #name {
+        width: 80%;
+    }
+
+    #email {
+        width: 81%;
+    }
+
+    #number {
+        width: 74%;
+    }
+
+    #address {
+        width: 75%;
     }
 }
