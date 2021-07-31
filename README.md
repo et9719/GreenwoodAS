@@ -30,6 +30,7 @@ The client Sam Greenwood had been working for another tree surgery company for t
 6. [Testing](#testing)
     - [HTML](#html)
     - [CSS](#css)
+    - [Bugs](#bugs)
 7. [Deployment](#deployment)
 8. [Credits](#credits)
     - [Content](#content)
@@ -219,7 +220,6 @@ The HTML was then re-tested, and results came back with no errors.
 
    <img src="assets/images/css-test-corrected.png" alt="CSS test showing no error">  
 
-
 ### Manual Testing 
 
 Component | Function | Does it work? | Fixed? 
@@ -240,10 +240,21 @@ Footer: Privacy Policy | Currently takes user to home page in new tab (will even
 Scroll button | Takes user to top of the page | Yes | N/A
 Contact Us: Form |    |    |    
 
+### Bugs
 
+1. I had a bit of trouble with the background image on my contact us page. It would show when opened in Gitpod but would not push to Gut hub. 
 
+- fixed? YES
 
+   All i had to do was change the image path.
 
+    <img src="assets/images/push-issue.png" alt="Screenshot of the site used to help solve the file path issue">  
+
+2. When doing my manual testing i found out that the form on my contact us page was not pushing through the information typed into the inputs. 
+
+-fixed? YES
+
+   i had originally put placeholders into my text input boxes, i hadnt given them a lable and a name to match. once i had changed this i re-tested the form and all of the informaiton pushed through.
 
 
  ## Deployment
@@ -270,14 +281,12 @@ The steps to deploy are as follows:
 
 3. https://www.codingnepalweb.com/scroll-to-top-button-html-css/ : This site was used to help create the scroll to top button. 
 
-4. https://www.graftingardeners.co.uk/tree-surgery-services-london/ : Thia site was inspiration for the descriptions of each service in the services section.
+4. https://www.graftingardeners.co.uk/tree-surgery-services-london/ : This site was inspiration for the descriptions of each service in the services section.
 
 5. https://gitpod.io/workspaces and https://github.com/ : were used to create the site
 
 6. https://stackoverflow.com/questions/31363971/github-pages-background-image-not-showing-up :
-   I had a bit of trouble with the background image on my contact us page. It would show when opened in Gitpod but would not push to Gut hub. All i had to do was change the image path.
-
-    <img src="assets/images/push-issue.png" alt="Screenshot of the site used to help solve the file path issue">  
+   i used stack overflow to help me figure out a couple of bugs. 
 
  ### Media
 
